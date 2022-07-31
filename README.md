@@ -28,7 +28,7 @@
 
 ## About
 
-<p align="justify">A REST API written in Java with Spring Boot and Spring Data JPA to query for informations on users. The database chosen is the in-memory H2 Database, for testing and demonstration purposes.</p>
+<p align="justify">A REST API written in Java with Spring Boot and Spring Data JPA to query for information on users. The database chosen is the in-memory H2 Database, for testing and demonstration purposes.</p>
 
 ---
 
@@ -101,7 +101,6 @@ The following tools were used in the construction of the project:
 #### **Utilities**
 
 - Dependency Manager: **[Maven](https://maven.apache.org/)**
-- Database Manager: **[DBeaver](https://dbeaver.io/)**
 - IDE: **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**
 - API Testing: **[Postman](https://postman.com)**
 
