@@ -53,6 +53,7 @@
 
 Before you begin, you will need to have the following tools installed on your
 machine:
+
 - [Git](https://git-scm.com)
 - [Java OpenJDK](https://www.oracle.com/java/technologies/downloads/)
 
@@ -88,6 +89,10 @@ The following tools were used in the construction of the project:
 #### **Language**
 
 - **[Java OpenJDK 11](https://www.oracle.com/java/technologies/downloads/)**
+
+#### **Framework**
+
+- **[Spring](https://spring.io/)**
 
 #### **Dependencies**
 
