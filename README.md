@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Java Spring Boot REST API with Spring Data JPA and H2 Database
+    Java Spring Boot API with Spring Data JPA and H2 Database
 </h3>
 
 <p align="center">
