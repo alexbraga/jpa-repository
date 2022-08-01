@@ -28,7 +28,7 @@
 
 ## About
 
-<p align="justify">A REST API written in Java with Spring Boot and Spring Data JPA to query for information on users. The database chosen is the in-memory H2 Database, for testing and demonstration purposes.</p>
+<p align="justify">An API written in Java with Spring Boot and Spring Data JPA to query for information on users. The database chosen is the in-memory H2 Database, for testing and demonstration purposes.</p>
 
 ---
 
