@@ -46,10 +46,10 @@
 ## How it works
 
 1. <a href="#clone-this-repository">Clone this repository</a>
-2. Compile the code
+2. Open the project folder with your preferred IDE
 3. Run `JpaRepositoryApplication.java`
 
-### Pre-requisites
+#### Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your
 machine:
