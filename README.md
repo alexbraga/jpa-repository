@@ -69,16 +69,16 @@ git clone https://github.com/alexbraga/jpa-repository.git
 #### API Endpoints
 
 - Get all users in the database:
-  - `/users`
+  - `GET` `/users`
 
 - Get all users, with pageable results:
-  - `/users/page?page={page_number}&size={size}`
+  - `GET` `/users/page?page={page_number}&size={size}`
 
 - Search users by salary range:
-  - `/users/search-salary?minSalary={min_value}&maxSalary={max_value}`
+  - `GET` `/users/search-salary?minSalary={min_value}&maxSalary={max_value}`
 
 - Search users by name:
-  - `/users/search-name?name={user_name}`
+  - `GET` `/users/search-name?name={user_name}`
 
 ---
 
