@@ -84,6 +84,7 @@ mvn spring-boot:run
 ```
 
 - Alternatively, open the project with your preferred IDE and run `/src/main/java/com/example/jparepository/JpaRepositoryApplication.java`
+- The server will start at `localhost:8080`
 
 ### API Endpoints
 
