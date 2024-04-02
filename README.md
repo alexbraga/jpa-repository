@@ -46,10 +46,10 @@
 ## How it works
 
 1. <a href="#clone-this-repository">Clone this repository</a>
-2. Open the project folder with your preferred IDE
-3. Run `JpaRepositoryApplication.java`
+2. <a href="#running-the-application">Run the application</a>
+3. <a href="#api-endpoints">API Endpoints</a>
 
-#### Pre-requisites
+### Pre-requisites
 
 Before getting started, you'll need to have the following tools installed on your machine:
 
@@ -60,13 +60,32 @@ Before getting started, you'll need to have the following tools installed on you
 In addition, you might also want an IDE to work with the code, like
 [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
-#### Clone this repository
+### Clone this repository
 
 ```
 git clone https://github.com/alexbraga/jpa-repository.git
 ```
 
-#### API Endpoints
+### Running the application
+
+Navigate to the root directory of the project
+```
+cd jpa-repository
+```
+
+Build the project
+```
+mvn compile
+```
+
+Run the application
+```
+mvn spring-boot:run
+```
+
+- Alternatively, open the project with your preferred IDE and run `/src/main/java/com/example/jparepository/JpaRepositoryApplication.java`
+
+### API Endpoints
 
 - Get all users in the database:
   - `GET` `/users`
@@ -138,8 +157,6 @@ git push origin my-amazing-feature
 <a href="https://www.linkedin.com/in/alexgbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:contato@alexbraga.com.br" target="_blank"><img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="E-Mail"></a>
 </div>
-
-
 
 <!-- ## License
 
